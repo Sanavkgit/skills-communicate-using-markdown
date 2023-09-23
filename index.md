@@ -6,3 +6,6 @@
 ``` javascript
 var myVar = "Hello, world i made a cat pop up here!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
