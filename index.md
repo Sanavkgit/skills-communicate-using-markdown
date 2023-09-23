@@ -1,4 +1,5 @@
-# header 
+# header Catto
 ## 
 
-# made a new header
+# Made a cat image pop up here
+![image](https://github.com/Sanavkgit/skills-communicate-using-markdown/assets/145742799/0ab0b854-bf6b-4166-af6b-e593b783182f)
